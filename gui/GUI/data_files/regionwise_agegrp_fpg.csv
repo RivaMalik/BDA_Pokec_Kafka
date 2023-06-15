@@ -1,0 +1,17 @@
+,support,itemsets,Region,Age
+11,8.241052534088706,"frozenset({'0-20', 'zilinsky kraj'})",Žilinský,0-20
+12,5.446678677587168,"frozenset({'21-40', 'zilinsky kraj'})",Žilinský,21-40
+13,5.235584711065133,"frozenset({'21-40', 'banskobystricky kraj'})",Banskobystrický,21-40
+14,7.162341395561785,"frozenset({'banskobystricky kraj', '0-20'})",Banskobystrický,0-20
+15,3.678242467982043,"frozenset({'trnavsky kraj', '21-40'})",Trnavský,21-40
+16,4.412877430944488,"frozenset({'trnavsky kraj', '0-20'})",Trnavský,0-20
+17,5.171627433128821,"frozenset({'bratislavsky kraj', '21-40'})",Bratislavský,21-40
+18,4.992861598896999,"frozenset({'bratislavsky kraj', '0-20'})",Bratislavský,0-20
+19,6.131336095495556,"frozenset({'21-40', 'kosicky kraj'})",Košický,21-40
+20,8.690675692914198,"frozenset({'0-20', 'kosicky kraj'})",Košický,0-20
+21,5.460134170486337,"frozenset({'21-40', 'presovsky kraj'})",Prešovský,21-40
+22,8.93549576501467,"frozenset({'presovsky kraj', '0-20'})",Prešovský,0-20
+23,5.972491380620945,"frozenset({'trenciansky kraj', '0-20'})",Trenčiansky,0-20
+24,4.822483604394529,"frozenset({'trenciansky kraj', '21-40'})",Trenčiansky,21-40
+25,5.331171134647545,"frozenset({'nitriansky kraj', '21-40'})",Nitriansky,21-40
+26,6.385767233952578,"frozenset({'nitriansky kraj', '0-20'})",Nitriansky,0-20

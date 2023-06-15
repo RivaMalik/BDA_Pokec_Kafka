@@ -1,0 +1,9 @@
+,support,itemsets,Region,Age
+11,0.08241052534088705,"frozenset({'0-20', 'zilinsky kraj'})",Žilinský,0-20
+14,0.07162341395561785,"frozenset({'banskobystricky kraj', '0-20'})",Banskobystrický,0-20
+16,0.04412877430944488,"frozenset({'trnavsky kraj', '0-20'})",Trnavský,0-20
+17,0.05171627433128821,"frozenset({'bratislavsky kraj', '21-40'})",Bratislavský,21-40
+20,0.08690675692914197,"frozenset({'0-20', 'kosicky kraj'})",Košický,0-20
+22,0.0893549576501467,"frozenset({'presovsky kraj', '0-20'})",Prešovský,0-20
+23,0.05972491380620945,"frozenset({'trenciansky kraj', '0-20'})",Trenčiansky,0-20
+26,0.06385767233952577,"frozenset({'nitriansky kraj', '0-20'})",Nitriansky,0-20

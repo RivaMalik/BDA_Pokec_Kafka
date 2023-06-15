@@ -1,0 +1,11 @@
+,age_bin_custom_label,last_login,user_id,age,age_bin_custom_range
+0,0-20,active,378765,378765,378765
+1,0-20,inactive,59454,59454,59454
+2,21-40,active,264625,264625,264625
+3,21-40,inactive,30243,30243,30243
+4,41-60,active,24455,24455,24455
+5,41-60,inactive,2052,2052,2052
+6,61-80,active,736,736,736
+7,61-80,inactive,103,103,103
+8,81-100,active,156,156,156
+9,81-100,inactive,32,32,32
